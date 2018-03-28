@@ -8,9 +8,9 @@
 
 import Foundation
 
-class Development2 {
+class Development2M2 {
     func createdDevelopment2(){
-        print("development-2")
+        print("development-2M2")
     }
 }
 
