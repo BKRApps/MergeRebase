@@ -10,6 +10,7 @@ import Foundation
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Development2V21 {
     func createdDevelopment1(){
 =======
@@ -21,6 +22,11 @@ class Development2 {
     func createdDevelopment2(){
 >>>>>>> added initial merge commints
         print("development-2")
+=======
+class Development2M2 {
+    func createdDevelopment2(){
+        print("development-2M2")
+>>>>>>> added new changes to development files
     }
 }
 
