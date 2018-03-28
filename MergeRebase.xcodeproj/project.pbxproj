@@ -30,7 +30,6 @@
 		F02F7633206B3D960096DC5C /* Development-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Development-2.swift"; sourceTree = "<group>"; };
 		F02F7635206B3EE50096DC5C /* Merge1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Merge1.swift; sourceTree = "<group>"; };
 		F02F7637206B3F620096DC5C /* Merge2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Merge2.swift; sourceTree = "<group>"; };
-
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,14 +71,11 @@
 				F02F7631206B3D4B0096DC5C /* Development-1.swift */,
 				F02F7633206B3D960096DC5C /* Development-2.swift */,
 				F02F7635206B3EE50096DC5C /* Merge1.swift */,
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 				F02F7637206B3F620096DC5C /* Merge2.swift */,
-=======
->>>>>>> added initial merge commints
-=======
-				F02F7637206B3F620096DC5C /* Merge2.swift */,
->>>>>>> added new merge changes
+
+
+
 			);
 			path = MergeRebase;
 			sourceTree = "<group>";

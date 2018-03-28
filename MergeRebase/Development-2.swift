@@ -11,6 +11,7 @@ import Foundation
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Development2V21 {
     func createdDevelopment1(){
 =======
@@ -27,6 +28,11 @@ class Development2M2 {
     func createdDevelopment2(){
         print("development-2M2")
 >>>>>>> added new changes to development files
+=======
+class Development2M2 {
+    func createdDevelopment2(){
+        print("development-2M2")
+>>>>>>> 2882dfcf71d6cd9b3aee3be59d9813ce32586551
     }
 }
 
