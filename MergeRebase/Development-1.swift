@@ -8,8 +8,8 @@
 
 import Foundation
 
-class Development1 {
+class Development1v2 {
     func createdDevelopment1(){
-        print("development-1")
+        print("development-1-v2")
     }
 }
