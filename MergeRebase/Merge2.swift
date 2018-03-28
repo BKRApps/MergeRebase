@@ -8,8 +8,8 @@
 
 import Foundation
 
-class Merge2 {
+class Merge2V2 {
     func createdMerge2(){
-        print("merge-1")
+        print("merge-2V2")
     }
 }
