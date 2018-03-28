@@ -8,7 +8,7 @@
 
 import Foundation
 
-class MergeKumar {
+class MergeKumar123 {
     func createdMerge1(){
         print("mergeKumar")
     }

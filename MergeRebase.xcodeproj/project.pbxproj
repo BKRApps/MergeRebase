@@ -13,10 +13,14 @@
 		F02F7627206B3B920096DC5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F02F7626206B3B920096DC5C /* Assets.xcassets */; };
 		F02F762A206B3B920096DC5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F02F7628206B3B920096DC5C /* LaunchScreen.storyboard */; };
 		F02F7636206B3EE50096DC5C /* Merge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F02F7635206B3EE50096DC5C /* Merge1.swift */; };
+<<<<<<< HEAD
 
 
 		F02F7638206B3F620096DC5C /* Merge2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F02F7637206B3F620096DC5C /* Merge2.swift */; };
 
+=======
+		F02F7638206B3F620096DC5C /* Merge2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F02F7637206B3F620096DC5C /* Merge2.swift */; };
+>>>>>>> 19a44ba45a96bd9b68f1df4b2148d0d8965d7c91
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,10 +32,14 @@
 		F02F7629206B3B920096DC5C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F02F762B206B3B920096DC5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F02F7635206B3EE50096DC5C /* Merge1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Merge1.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 
 
 		F02F7637206B3F620096DC5C /* Merge2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Merge2.swift; sourceTree = "<group>"; };
 
+=======
+		F02F7637206B3F620096DC5C /* Merge2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Merge2.swift; sourceTree = "<group>"; };
+>>>>>>> 19a44ba45a96bd9b68f1df4b2148d0d8965d7c91
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,11 +79,15 @@
 				F02F7628206B3B920096DC5C /* LaunchScreen.storyboard */,
 				F02F762B206B3B920096DC5C /* Info.plist */,
 				F02F7635206B3EE50096DC5C /* Merge1.swift */,
+<<<<<<< HEAD
 
 
 
 				F02F7637206B3F620096DC5C /* Merge2.swift */,
 
+=======
+				F02F7637206B3F620096DC5C /* Merge2.swift */,
+>>>>>>> 19a44ba45a96bd9b68f1df4b2148d0d8965d7c91
 			);
 			path = MergeRebase;
 			sourceTree = "<group>";
