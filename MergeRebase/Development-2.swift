@@ -13,3 +13,9 @@ class Development1 {
         print("development-2")
     }
 }
+
+class Development3 {
+    func createdDevelopment3(){
+        print("development-3.")
+    }
+}
