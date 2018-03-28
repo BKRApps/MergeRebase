@@ -8,8 +8,14 @@
 
 import Foundation
 
+<<<<<<< HEAD
 class Merge1 {
     func createdMerge1(){
         print("merge-1")
+=======
+class Merge1Initial {
+    func createdMerge1(){
+        print("merge-Initial 1")
+>>>>>>> added initial merge commints
     }
 }

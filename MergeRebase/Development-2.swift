@@ -9,8 +9,13 @@
 import Foundation
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Development2V21 {
     func createdDevelopment1(){
+=======
+class Development2 {
+    func createdDevelopment2(){
+>>>>>>> added initial merge commints
 =======
 class Development2 {
     func createdDevelopment2(){
