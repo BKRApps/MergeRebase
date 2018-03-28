@@ -1,5 +1,5 @@
 //
-//  Merge1.swift
+//  Merge2.swift
 //  MergeRebase
 //
 //  Created by kumar reddy on 28/03/18.
@@ -8,8 +8,8 @@
 
 import Foundation
 
-class Merge1 {
-    func createdMerge1(){
+class Merge2 {
+    func createdMerge2(){
         print("merge-1")
     }
 }
