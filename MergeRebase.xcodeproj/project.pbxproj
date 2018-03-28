@@ -79,8 +79,8 @@
 				F02F7635206B3EE50096DC5C /* Merge1.swift */,
 
 
-				F02F7637206B3F620096DC5C /* Merge2.swift */,
 
+				F02F7637206B3F620096DC5C /* Merge2.swift */,
 
 			);
 			path = MergeRebase;
